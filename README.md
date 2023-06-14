@@ -70,7 +70,7 @@ In the project directory, you can run:
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://restaurant-mern-frontend.onrender.com/](https://restaurant-mern-frontend.onrender.com/) to view it in your browser.
 
 The page will reload when you make changes.\
 
@@ -95,7 +95,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:5500/api/v1/restaurants](http://localhost:5500/api/v1/restaurants) to access the backend
+Open [https://github.com/wynnei/Restaurants-MERN-](https://github.com/wynnei/Restaurants-MERN-) to access the backend
 
 The database reloads when you make changes.\
 
